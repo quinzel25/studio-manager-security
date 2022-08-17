@@ -1,0 +1,33 @@
+.funny {
+	font-style: italic;
+	color: green;
+}
+
+
+#white{
+    color: white;
+}
+
+
+#employeeList {
+	
+	 margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+	
+}
+
+#employeeSave {
+	
+	margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+	
+}
+
+
+.body{
+	background-image: url("@{/images/kiwi.jpg}");
+    background-size: cover;
+    background-attachment: fixed;
+}
